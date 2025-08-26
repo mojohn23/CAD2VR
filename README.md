@@ -28,5 +28,5 @@ The following GitHub repository contains an easy-to-use, open-source Virtual Rea
 ## Authors
 
 Mollie Johnson, Andy Eskenazi, Olivier de Weck <br />
-Massachusetts Institute of Technology, 2024 <br />
+Massachusetts Institute of Technology, 2025 <br />
 
