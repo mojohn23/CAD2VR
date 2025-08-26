@@ -19,7 +19,7 @@ The following GitHub repository contains an easy-to-use, open-source Virtual Rea
 
 The lecture slides can be accessed by clicking in the picture below, or by going to the [Teaching Materials](https://github.com/mojohn23/CAD2VR/tree/main/Teaching%20Material) folder.
 
-<a href="[https://aa.com](https://github.com/mojohn23/CAD2VR/blob/main/Teaching%20Material/Unity%20for%20Engineers.pdf)" target="_blank">
+<a href="https://github.com/mojohn23/CAD2VR/blob/main/Teaching%20Material/Unity%20for%20Engineers.pdf" target="_blank">
 
 ![My image](https://github.com/mojohn23/CAD2VR/blob/main/Teaching%20Material/Intro%20Slide.png)
 
