@@ -19,7 +19,7 @@ The VR template is contained in [Quick Build VR Template](https://github.com/moj
 <a name="S2"></a>
 ### Lecture Slides
 
-The lecture slides can be accessed by clicking in the picture below, or by going to the [Teaching Materials](https://github.com/mojohn23/CAD2VR/tree/main/Teaching%20Material) folder.
+The static lecture slides (in _.pdf_ format) can be accessed by clicking in the picture below or by going to the [Teaching Materials](https://github.com/mojohn23/CAD2VR/tree/main/Teaching%20Material) folder. The interactive lecture slides (with animations) can be accessed via the [following link](https://docs.google.com/presentation/d/18jsfGcscJmZfWqBzVBPr2IxZhYL8abk6l-F59k_CAuE/edit?slide=id.g35c48a07057_0_448#slide=id.g35c48a07057_0_448).
 
 <a href="https://github.com/mojohn23/CAD2VR/blob/main/Teaching%20Material/Unity%20for%20Engineers.pdf" target="_blank">
 
