@@ -18,6 +18,7 @@ The following GitHub repository contains an easy-to-use, open-source Virtual Rea
 ### Lecture Slides
 
 <embed src="https://github.com/mojohn23/CAD2VR/blob/main/Teaching%20Material/Unity%20for%20Engineers.pdf" type="application/pdf" />
+<iframe src="https://github.com/mojohn23/CAD2VR/blob/main/Teaching%20Material/Unity%20for%20Engineers.pdf" width="100%" height="500" frameborder="0" />
 
 ([ back to top ](#back_to_top))
 
