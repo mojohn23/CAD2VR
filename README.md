@@ -17,7 +17,11 @@ The following GitHub repository contains an easy-to-use, open-source Virtual Rea
 <a name="S2"></a>
 ### Lecture Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRM80HVqwJbVe4cfny5kgVoUk0brkyBwzxz2xGPzbxlyPt9MU_6N-vaUbAlNnb1cFs30ZErdREuBM70/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<p align="left">
+<img src="https://github.com/mojohn23/CAD2VR/blob/main/Teaching%20Material/Intro%20Slide.png" width="500"> 
+</p>
+[![FLipkart](https://github.com/mojohn23/CAD2VR/blob/main/Teaching%20Material/Intro%20Slide.png)](https://www.flipkart.com/){:target="_blank"}
 
 ([ back to top ](#back_to_top))
 
