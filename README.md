@@ -33,11 +33,11 @@ The lecture slides can be accessed by clicking in the picture below, or by going
 <a name="S3"></a>
 ### Additional Resources
 
-**VR Material**: Additional open-source VR materials can be obtained from the following website:
+**CAD Education**: Additional educational resources regarding CAD modeling can be obtained from the MIT Open CourseWare's [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/). This course, taught in several CAD softwares (e.g., Solidworks, Fusion 360, Onshape, Siemens NX), introduces students (with both zero background as well as with advanced experience) to CAD modeling via reverse engineering, focusing on the design process itself. 
 
-**CAD Modeling**: Additional educational resources regarding CAD modeling can be obtained from the MIT Open CourseWare's [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/). This course, taught in several CAD softwares (e.g., Solidworks, Fusion 360, Onshape, Siemens NX), introduces students (with both zero background as well as with advanced experience) to CAD modeling via reverse engineering, focusing on the design process itself. 
+**CAD Models**: [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/) has made a variety of open-source CAD models available in different formats, which can be freely downloaded and used on the provided VR template. Regardless of the original file type, it is **important** to ensure that all CAD files are converted to the _.fbx_ extension. The free assets generated for this project use the [Solidworks Visualize](https://www.solidworks.com/product/solidworks-visualize) software, which can take a variety of CAD file formats, including _.STEP_ and _.sldprt_. However, Fusion 360 and Siemens NX allow the user to directly export their files with the _.fbx_ extension.
 
-The course has made a variety of open-source CAD models available in different formats, which can be freely downloaded and used on the provided VR template. Regardless of the original file type, it is important to ensure that all CAD files are converted to the _.fbx_ extension. The free assets generated for this project use the _[Solidworks Visualize](https://www.solidworks.com/product/solidworks-visualize)_ software, which can take a variety of CAD file formats, including _.STEP_ and _.sldprt_. However, Fusion 360 and Siemens NX allow the user to directly export their files with the _.fbx_ extension.
+**VR Material**: Additional open-source VR materials, including models and settings, can be obtained from [Sketchfab](https://sketchfab.com/).
 
 ([ back to top ](#back_to_top))
 
