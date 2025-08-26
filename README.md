@@ -21,7 +21,12 @@ The following GitHub repository contains an easy-to-use, open-source Virtual Rea
 <p align="left">
 <img src="https://github.com/mojohn23/CAD2VR/blob/main/Teaching%20Material/Intro%20Slide.png" width="500"> 
 </p>
-[![FLipkart](https://github.com/mojohn23/CAD2VR/blob/main/Teaching%20Material/Intro%20Slide.png)](https://www.flipkart.com/){:target="_blank"}
+
+<a href="https://aa.com" target="_blank">
+
+![My image](https://github.com/mojohn23/CAD2VR/blob/main/Teaching%20Material/Intro%20Slide.png)
+
+</a>
 
 ([ back to top ](#back_to_top))
 
