@@ -11,6 +11,8 @@ The following GitHub repository contains an easy-to-use, open-source Virtual Rea
 <a name="S1"></a>
 ### Downloading Template
 
+The VR template is contained in [Quick Build VR Template](https://github.com/mojohn23/CAD2VR/tree/main/Quick%20Build%20VR%20Template) directory, and as such, the entire folder must be downloaded. For this, copy the folder's directory and use the [following website](https://download-directory.github.io/) to download the entire zipped folder. Once downloaded, unzip, and make sure to rename the folder back to "Quick Build VR Template".
+
 ([ back to top ](#back_to_top))
 
 ---
