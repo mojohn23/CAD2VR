@@ -17,19 +17,7 @@ The following GitHub repository contains an easy-to-use, open-source Virtual Rea
 <a name="S2"></a>
 ### Lecture Slides
 
----
-layout: single
-title: "Curriculum Vitae"
-sitemap: false
-permalink: /Curriculum/
-author_profile: TRUE
-header:
-  image: assets/images/banner.jpg
----
-
-<embed src="[https://belovanna.github.io/assets/download/sample.pdf](https://github.com/mojohn23/CAD2VR/blob/main/Teaching%20Material/Unity%20for%20Engineers.pdf)" type="application/pdf" />
-
-<object data="/github.com/mojohn23/CAD2VR/blob/main/Teaching%20Material/Unity%20for%20Engineers.pdf" width="1000" height="1000" type='application/pdf'></object>
+<embed src="https://github.com/mojohn23/CAD2VR/blob/main/Teaching%20Material/Unity%20for%20Engineers.pdf" type="application/pdf" />
 
 ([ back to top ](#back_to_top))
 
